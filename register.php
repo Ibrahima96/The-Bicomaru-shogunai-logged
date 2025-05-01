@@ -1,3 +1,8 @@
+<?php 
+session_start();
+
+
+;?>
 <!-- register.php -->
  <!-- on cree {{register_traitement.php }}pour la login du creation du comptes -->
 <!DOCTYPE html>
